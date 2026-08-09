@@ -27,9 +27,6 @@ O sistema simula operações básicas de um banco através do terminal, permitin
 - File System (fs)
 - JSON
 
-## ▶️ Como executar
+## 🎯 Objetivo
 
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/thiago-casagrande/Sistema-Bancario.git
+Projeto desenvolvido durante meus estudos em Análise e Desenvolvimento de Sistemas para praticar JavaScript, Node.js, lógica de programação e manipulação de arquivos JSON.
