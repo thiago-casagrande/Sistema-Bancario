@@ -1,12 +1,12 @@
-# 🏦 Sistema Bancário
+#  Sistema Bancário
 
 Sistema bancário desenvolvido em **JavaScript e Node.js** para praticar lógica de programação e manipulação de dados.
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O sistema simula operações básicas de um banco através do terminal, permitindo criar e gerenciar contas e realizar movimentações financeiras.
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 - Criar conta
 - Listar contas
@@ -19,7 +19,7 @@ O sistema simula operações básicas de um banco através do terminal, permitin
 - Salvar contas em arquivo JSON
 - Carregar contas ao iniciar o sistema
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - JavaScript
 - Node.js
@@ -27,6 +27,6 @@ O sistema simula operações básicas de um banco através do terminal, permitin
 - File System (fs)
 - JSON
 
-## 🎯 Objetivo
+##  Objetivo
 
 Projeto desenvolvido durante meus estudos em Análise e Desenvolvimento de Sistemas para praticar JavaScript, Node.js, lógica de programação e manipulação de arquivos JSON.
