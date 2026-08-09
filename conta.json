@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "thiago",
+    "numero": 1,
+    "saldo": 128,
+    "extrato": [
+      "Depósito: +R$ 25.00",
+      "Transferência recebida: +R$ 5.00 da conta 2"
+    ]
+  },
+  {
+    "nome": "lucas",
+    "numero": 2,
+    "saldo": 57,
+    "extrato": [
+      "Depósito: +R$ 12.00",
+      "Saque: -R$ 35.00",
+      "Transferência enviada: -R$ 5.00 para conta 1"
+    ]
+  }
+]
